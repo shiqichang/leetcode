@@ -9,6 +9,10 @@
 
 def two_sum(nums, target):
     """
+    解题思路：
+        最笨的方法，双重循环
+
+    todo 时间复杂度太大，性能差
     时间复杂度：O(n^2)
     :param list nums:
     :param int target:

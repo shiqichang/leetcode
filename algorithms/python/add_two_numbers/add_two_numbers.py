@@ -31,6 +31,11 @@ def gen_list_node(l):
 
 def add_two_numbers(ln1, ln2):
     """
+    解题思路：
+        取列表结点中较短长度，进行循环，因为列表结点是按照逆序排的，所以从左至右分别是个，十，百等等；
+        将两个列表结点对应的值相加，若和大于等于 10，则　高位进一，低位为和减去 10;
+        循环结束之后，如果两个列表长度不一样，那么结果列表的最后一个值为长度长的列表的最后一个
+
     todo 待改进
     本地测试用例通过，
     但 leetcode 没通过，报错原因：TypeError: object of type 'ListNode' has no len()
@@ -61,6 +66,8 @@ def add_two_numbers(ln1, ln2):
             l_val.append(ln2[-1].value)
         else:
             l_val.append(ln1[-1].value)
+
+    print(l_val)
 
     result = gen_list_node(l_val)
     return result

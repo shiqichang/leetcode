@@ -9,3 +9,4 @@
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[Python](./algorithms/python/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.py)|中等|
 |4|[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[Python](./algorithms/python/median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)|困难|
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[Python](./algorithms/python/longest_palindromic_substring/longest_palindromic_substring.py)|中等|
+|6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)|[Python](./algorithms/python/zigzag_conversion/zigzag_conversion.py)|中等|

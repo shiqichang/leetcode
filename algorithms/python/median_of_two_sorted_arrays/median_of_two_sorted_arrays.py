@@ -8,7 +8,8 @@
 
 
 def find_median_sorted_arrays(nums1, nums2):
-    """
+    """寻找两个有序数组的中位数
+
     解题思路：
         要求时间复杂度为 O(log(m+n))，为二叉树的题型，
         但我暂时想不出二叉树的解法，取巧用了python内嵌的sorted()方法

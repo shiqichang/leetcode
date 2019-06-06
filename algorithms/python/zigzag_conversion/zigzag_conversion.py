@@ -9,7 +9,8 @@
 
 class Solution:
     def convert(self, s: str, num_rows: int) -> str:
-        """
+        """Z 字形变换
+
         解题思路：
             将字符串转换成二维数组
         :param str s:

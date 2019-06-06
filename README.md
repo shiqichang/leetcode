@@ -10,3 +10,4 @@
 |4|[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[Python](./algorithms/python/median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)|困难|
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[Python](./algorithms/python/longest_palindromic_substring/longest_palindromic_substring.py)|中等|
 |6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)|[Python](./algorithms/python/zigzag_conversion/zigzag_conversion.py)|中等|
+|7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/)|[Python](./algorithms/python/reverse_integer/reverse_integer.py)|简单|

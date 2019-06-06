@@ -8,7 +8,8 @@
 
 
 def longest_palindrome(s):
-    """
+    """最长回文子串
+
     解题思路：
         回文字符串：sub_str = sub_str[::1]
         遍历字符串，双重循环

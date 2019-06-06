@@ -14,8 +14,8 @@ class ListNode(object):
 
 
 def gen_list_node(l):
-    """
-    生成`ListNode`
+    """生成 `ListNode`
+
     :param list, l:
     :return list, ln:
     """
@@ -30,7 +30,8 @@ def gen_list_node(l):
 
 
 def add_two_numbers(ln1, ln2):
-    """
+    """两数相加
+
     解题思路：
         取列表结点中较短长度，进行循环，因为列表结点是按照逆序排的，所以从左至右分别是个，十，百等等；
         将两个列表结点对应的值相加，若和大于等于 10，则　高位进一，低位为和减去 10;

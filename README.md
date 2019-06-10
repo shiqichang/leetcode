@@ -11,3 +11,4 @@
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[Python](./algorithms/python/longest_palindromic_substring/longest_palindromic_substring.py)|中等|
 |6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)|[Python](./algorithms/python/zigzag_conversion/zigzag_conversion.py)|中等|
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/)|[Python](./algorithms/python/reverse_integer/reverse_integer.py)|简单|
+|8|[字符串转换整数(atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|[Python](./algorithms/python/string_to_integer_atoi/string_to_integer_atoi.py)|中等|

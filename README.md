@@ -12,4 +12,4 @@
 |6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)|[Python](./algorithms/python/zigzag_conversion/zigzag_conversion.py)|中等|
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/)|[Python](./algorithms/python/reverse_integer/reverse_integer.py)|简单|
 |8|[字符串转换整数(atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|[Python](./algorithms/python/string_to_integer_atoi/string_to_integer_atoi.py)|中等|
-|9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|[Python](./algorithms/palindrome_number/palindrome_number.py)|简单|
+|9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|[Python](./algorithms/python/palindrome_number/palindrome_number.py)|简单|

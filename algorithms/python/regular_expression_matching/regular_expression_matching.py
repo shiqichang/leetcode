@@ -9,3 +9,5 @@
 
 class Solution(object):
     def is_match(self, s):
+        pass
+
